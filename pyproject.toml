@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "python-project-template"
+name = "aider-tutorial"
 version = "0.1.0"
 description = ""
 authors = ["Yuki Oshima <39944763+os1ma@users.noreply.github.com>"]
@@ -7,7 +7,8 @@ readme = "README.md"
 package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.11.10"
+aider-chat = "^0.59.1"
 
 
 [build-system]
