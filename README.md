@@ -1,1 +1,1 @@
-# python-project-template
+# aider-tutorial
